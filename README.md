@@ -13,4 +13,4 @@ python removeDevice.py <device pid>
 ***Setup repeat cycle --***
 Find out the variable "REPEAT" in the script and modify the number and save
 
-Make sure `#AA0000` only one device PID `#000000` is allowed
+Make sure only one device PID is allowed
