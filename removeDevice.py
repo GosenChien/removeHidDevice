@@ -17,6 +17,7 @@ Find out the variable "REPEAT" in the script and modify the number and save
 
 Make sure only one device PID is allowed
 
+The script only work under Windows environment 
 '''
 
 def rem_dev():
